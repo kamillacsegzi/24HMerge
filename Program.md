@@ -20,6 +20,7 @@ Studio X becomes a space of overlapping events.
 ![Image title](https://raw.github.com/kamillacsegzi/site2site.github.io/master/programs/kcApp/images/24-02.jpg)
 ![Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/FirstScheme_plan%20%5BConverted%5D-01.jpg)
 ![Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/FirstScheme-01.jpg)
+![Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/FirstScheme_3-03.jpg)
 ![Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/FirstScheme22-01.jpg)
 
 ## References
