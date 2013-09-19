@@ -4,7 +4,7 @@
 
 
 ## Scenario
-The system embraces the core idea behind the Studio X Golbal - open platforms for creativity and communication interconected between each other.
+The system embraces the core idea behind the Studio X Golbal - open platforms for creativity and communication interconnected between each other.
 'Not a school, think-tank, gallery, performance space, communication center, or office–but elements of all.
 Studio-X is an open flexible work area with exhibition space, book gallery, lecture space, meeting space, some offices and a serious espresso machine...'
 The space is a system of modules (furniture, panles, canvas etc.) that can move along predifined axes according to the different functions.
