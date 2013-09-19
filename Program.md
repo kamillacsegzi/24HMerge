@@ -1,6 +1,6 @@
 ##	24HMerge
 
-'The basic concept is extremely simple: an open space of collaborative work and exchange of ideas.' Mark Wigley
+'The basic concept that is extremely simple: an open space of collaborative work and exchange of ideas.' Mark Wigley
 
 
 ## Scenario
