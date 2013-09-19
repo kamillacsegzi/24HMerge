@@ -10,6 +10,8 @@ Studio-X is an open flexible work area with exhibition space, book gallery, lect
 The space is a system of modules (furniture, panles, canvas etc.) that can move along predifined axes according to the different functions.
 It is controled locally and globally through an App. 
 
+The canvases detect motion both locally and globally, and they interact also with different applications.
+
 Example scenario: - 08:00PM - Beijing - Lecture - panels (furniture) arranged accordinlgy: open space, projection
                   - 08:00AM - NYC - office - decides to join the lecture - by selecting the 'Join' option, the space rearranges
                   
@@ -25,7 +27,7 @@ Studio X becomes a space of overlapping events.
 
 ## References
 
-[Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/waterfall_swing1.jpg)
+![Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/waterfall_swing1.jpg)
 
 ## Critique
 
