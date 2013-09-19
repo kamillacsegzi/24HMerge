@@ -24,5 +24,7 @@ Studio X becomes a space of overlapping events.
 
 ## References
 
+[Image title](https://raw.github.com/kamillacsegzi/24HMerge/master/Docs/images/waterfall_swing1.jpg)
+
 ## Critique
 
